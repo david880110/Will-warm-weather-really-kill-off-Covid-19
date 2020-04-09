@@ -2,7 +2,7 @@
 
 # Will-warm-weather-really-kill-off-Covid-19
 
-![alt text](https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/CoronaVirusHeader-Final-3.jpg)
+![alt text](https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/CoronaVirusHeader-Final-3.jpg)
 
 <p align="center">
   • <a href="#findings">Findings</a>
@@ -13,9 +13,9 @@
 One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. Devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. These type of devices are part of the quantified self movement, aim to find patterns in individual's behavior. The goal of this project is to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants.
 ## Data Source
 
-<img src="https://raw.githubusercontent.com/david880110/Human-Activity-Recognition-Analysis/master/image/wayback-machine-logo.jpg" width="240" height="80"/>
+<img src="https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/new%20york%20times%20logo.png" width="240" height="80"/>
 
-The [data](http://web.archive.org/web/20161224072740/http:/groupware.les.inf.puc-rio.br/har.) for this project come from "http://web.archive.org"， licensed under the Creative Commons license (CC BY-SA).
+The [data](https://github.com/nytimes/covid-19-data) for this project come from "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html".
 ## Findings 
 
 ## Project Detail
