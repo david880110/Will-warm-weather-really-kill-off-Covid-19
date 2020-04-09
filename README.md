@@ -16,11 +16,13 @@ Perhaps unsurprisingly, many people are now asking whether we can expect similar
 
 ## Data Source
 
-<img src="https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/new%20york%20times%20logo.png" width="240" height="80"/>
+<img src="https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/new%20york%20times%20logo.png" width="180" height="80"/>
 
 <img src="https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/NOAA_logo.png" width="240" height="80"/>
 
-The [covid-19-data](https://github.com/nytimes/covid-19-data) and [weather data](https://github.com/nytimes/covid-19-data) for this project come from "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html".
+[covid-19-data](https://github.com/nytimes/covid-19-data)
+[weather data - Los Angeles](https://w2.weather.gov/climate/xmacis.php?wfo=lox)
+[weather data - New York City](https://w2.weather.gov/climate/index.php?wfo=okx)
 
 ## Findings 
 
@@ -28,6 +30,6 @@ The [covid-19-data](https://github.com/nytimes/covid-19-data) and [weather data]
 
 ## Technology Used
 
-<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/python%20logo.png" width="180" height="90"/>
+<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/python%20logo.png" width="240" height="50"/>
 
 © David Gu 2020 All Rights reserved.
