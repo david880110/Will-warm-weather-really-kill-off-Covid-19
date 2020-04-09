@@ -6,8 +6,10 @@ Will warm weather really kill off Covid-19?
 ![alt text](https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/CoronaVirusHeader-Final-3.jpg)
 
 <p align="center">
-  • <a href="#findings">Findings</a>
-  • <a href="#syntax-detail">Project Detail</a>
+  • <a href="#Data Source">Data Source</a>
+  • <a href="#Region and Domain">Region and Domain</a>
+  • <a href="#Image">Image</a>  
+  • <a href="#Discussion">Discussion</a>
   • <a href="#technology-Used">Technology Used</a>
 </p>
 
@@ -28,14 +30,15 @@ Perhaps unsurprisingly, many people are now asking whether we can expect similar
 ## Region and Domain
 ![alt text](https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/googlemap-los%20angeles.png)
 ![alt text](https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/googlemap-new%20york.png)
-This analysis picks Los Angeles and New York City for instance to visualize how the new cases confirmed in each city related to their weather temperature respectivily
 
+This analysis picks [Los Angeles](https://en.wikipedia.org/wiki/Los_Angeles) and [New York City](https://en.wikipedia.org/wiki/New_York_City) for instance to visualize how the new cases confirmed in each city related to their weather temperature respectivily
 
 ## Image 
 ![alt text](https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/la.png)
 ![alt text](https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/nyc.png)
 
 ## Discussion
+Based on the data given, we can clearly tell that the new cases confirmed and weather temparature has positive correlation, however, the weather temperature itself does not serve as the only factor to drive the new cases, other factors such as government's involvement to implement stay-at-home policy and people's ingagement in social distancing also helps the medigation.
 
 ## Technology Used
 
