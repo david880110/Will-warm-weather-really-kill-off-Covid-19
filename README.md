@@ -19,7 +19,7 @@ Perhaps unsurprisingly, many people are now asking whether we can expect similar
 
 ## Data Source
 
-<img src="https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/new%20york%20times%20logo.png" width="120" height="50"/>
+<img src="https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/new%20york%20times%20logo.png" width="180" height="50"/>
 
 <img src="https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/NOAA_logo.png" width="240" height="80"/>
 
