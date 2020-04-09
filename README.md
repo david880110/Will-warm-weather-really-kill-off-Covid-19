@@ -1,7 +1,7 @@
  ![built with Python3](https://img.shields.io/badge/built%20with-Python3-blue.svg)
 
-# Research Question
-Will warm weather really kill off Covid-19?
+# Research Question - Will warm weather really kill off Covid-19?
+
 
 ![alt text](https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/CoronaVirusHeader-Final-3.jpg)
 
