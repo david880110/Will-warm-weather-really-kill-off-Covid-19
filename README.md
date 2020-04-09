@@ -20,9 +20,9 @@ Perhaps unsurprisingly, many people are now asking whether we can expect similar
 
 <img src="https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/NOAA_logo.png" width="240" height="80"/>
 
-[covid-19-data](https://github.com/nytimes/covid-19-data)
-[weather data - Los Angeles](https://w2.weather.gov/climate/xmacis.php?wfo=lox)
-[weather data - New York City](https://w2.weather.gov/climate/index.php?wfo=okx)
+* [covid-19-data](https://github.com/nytimes/covid-19-data)
+* [weather data - Los Angeles](https://w2.weather.gov/climate/xmacis.php?wfo=lox)
+* [weather data - New York City](https://w2.weather.gov/climate/index.php?wfo=okx)
 
 ## Findings 
 
