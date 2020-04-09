@@ -13,11 +13,11 @@ Will warm weather really kill off Covid-19?
 
 Many infectious diseases wax and wane with the seasons. Flu typically arrives with the colder winter months, as does the norovirus vomiting bug. Others, such as typhoid, tend to peak during the summer. Measles cases drop during the summer in temperate climates, while in tropical regions they peak in the dry season.
 
-Perhaps unsurprisingly, many people are now asking whether we can expect similar seasonality with Covid-19. Since it first emerged in China around mid-December, the virus has spread quickly, with the number of cases now rising most sharply in Europe and the US.e thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. Devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. These type of devices are part of the quantified self movement, aim to find patterns in individual's behavior. The goal of this project is to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants.
+Perhaps unsurprisingly, many people are now asking whether we can expect similar seasonality with Covid-19. Since it first emerged in China around mid-December, the virus has spread quickly, with the number of cases now rising most sharply in Europe and the US.e thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. 
 
 ## Data Source
 
-<img src="https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/new%20york%20times%20logo.png" width="180" height="60"/>
+<img src="https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/new%20york%20times%20logo.png" width="120" height="50"/>
 
 <img src="https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/NOAA_logo.png" width="240" height="80"/>
 
@@ -26,6 +26,10 @@ Perhaps unsurprisingly, many people are now asking whether we can expect similar
 * [weather data - New York City](https://w2.weather.gov/climate/index.php?wfo=okx)
 
 ## Region and Domain
+![alt text](https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/googlemap-los%20angeles.png)
+![alt text](https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/googlemap-new%20york.png)
+This analysis picks Los Angeles and New York City for instance to visualize how the new cases confirmed in each city related to their weather temperature respectivily
+
 
 ## Image 
 ![alt text](https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/la.png)
