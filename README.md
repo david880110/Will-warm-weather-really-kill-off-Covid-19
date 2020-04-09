@@ -15,7 +15,7 @@
 
 Many infectious diseases wax and wane with the seasons. Flu typically arrives with the colder winter months, as does the norovirus vomiting bug. Others, such as typhoid, tend to peak during the summer. Measles cases drop during the summer in temperate climates, while in tropical regions they peak in the dry season.
 
-Perhaps unsurprisingly, many people are now asking whether we can expect similar seasonality with Covid-19. Since it first emerged in China around mid-December, the virus has spread quickly, with the number of cases now rising most sharply in Europe and the US.e thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. 
+Perhaps unsurprisingly, many people are now asking whether we can expect similar seasonality with Covid-19. Since it first emerged in China around mid-December, the virus has spread quickly, with the number of cases now rising most sharply in Europe and the US.
 
 ## Data Source
 
