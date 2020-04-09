@@ -1,6 +1,6 @@
-![built with R](https://img.shields.io/badge/built%20with-R-blue.svg)    
+ ![built with Python3](https://img.shields.io/badge/built%20with-Python3-blue.svg)
 
-# Will-warm-weather-really-kill-off-Covid-19
+# Will warm weather really kill off Covid-19?
 
 ![alt text](https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/CoronaVirusHeader-Final-3.jpg)
 
@@ -10,48 +10,24 @@
   • <a href="#technology-Used">Technology Used</a>
 </p>
 
-One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. Devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. These type of devices are part of the quantified self movement, aim to find patterns in individual's behavior. The goal of this project is to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants.
+Many infectious diseases wax and wane with the seasons. Flu typically arrives with the colder winter months, as does the norovirus vomiting bug. Others, such as typhoid, tend to peak during the summer. Measles cases drop during the summer in temperate climates, while in tropical regions they peak in the dry season.
+
+Perhaps unsurprisingly, many people are now asking whether we can expect similar seasonality with Covid-19. Since it first emerged in China around mid-December, the virus has spread quickly, with the number of cases now rising most sharply in Europe and the US.e thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. Devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. These type of devices are part of the quantified self movement, aim to find patterns in individual's behavior. The goal of this project is to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants.
+
 ## Data Source
 
 <img src="https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/new%20york%20times%20logo.png" width="240" height="80"/>
 
-The [data](https://github.com/nytimes/covid-19-data) for this project come from "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html".
+<img src="https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/NOAA_logo.png" width="240" height="80"/>
+
+The [covid-19-data](https://github.com/nytimes/covid-19-data) and [weather data](https://github.com/nytimes/covid-19-data) for this project come from "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html".
+
 ## Findings 
 
 ## Project Detail
 
-### How the model was built
-
-3 Machine Learning models was used to compared anc choose the highest output accuracy
-* Decision Trees
-* Random Forest
-* Generalized Boosted Regression
-
-### How cross validation is used
-The cleaned training set is splitted into a pure training data set (60%) and a validation data set (40%).
-
-```R
-inTrain <- createDataPartition(training$classe, p=0.6, list=FALSE)
-myTraining <- training[inTrain, ]
-myTesting <- training[-inTrain, ]
-dim(myTraining); dim(myTesting)
-```
-
-
-
-### What is the expected out of sample error
-The expected out-of-sample error is 0.11% (1-99.89%)
-
-### why the choices was made
-
-The Random Forest model gave an accuracy of testing dataset of 99.89%, which was more accurate than that of from the Decision Trees or GBM.
-
-|          | Decision Trees | Random Forest | Generalized Boosted Regression |
-|:--------:|:--------------:|:-------------:|:------------------------------:|
-| Accuracy |     0.8789     |     0.9986    |             0.9966             |
-
 ## Technology Used
 
-<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/R_logo.svg.png" width="180" height="90"/>
+<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/python%20logo.png" width="180" height="90"/>
 
-© David Gu 2018 All Rights reserved.
+© David Gu 2020 All Rights reserved.
