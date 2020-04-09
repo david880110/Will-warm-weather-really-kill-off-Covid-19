@@ -1,6 +1,7 @@
  ![built with Python3](https://img.shields.io/badge/built%20with-Python3-blue.svg)
 
-# Will warm weather really kill off Covid-19?
+# Research Question
+Will warm weather really kill off Covid-19?
 
 ![alt text](https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/img/CoronaVirusHeader-Final-3.jpg)
 
@@ -24,9 +25,13 @@ Perhaps unsurprisingly, many people are now asking whether we can expect similar
 * [weather data - Los Angeles](https://w2.weather.gov/climate/xmacis.php?wfo=lox)
 * [weather data - New York City](https://w2.weather.gov/climate/index.php?wfo=okx)
 
-## Findings 
+## Region and Domain
 
-## Project Detail
+## Image 
+![alt text](https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/la.png)
+![alt text](https://raw.githubusercontent.com/david880110/Will-warm-weather-really-kill-off-Covid-19/master/nyc.png)
+
+## Discussion
 
 ## Technology Used
 
